@@ -1,5 +1,5 @@
 # volume-modifier
-Change the volume of your audio file.
+A command-line program to change the volume of an audio file.
 > Run the 'main' executable from the command-line.
 ### Usage:
 #### MacOS (Unix):
