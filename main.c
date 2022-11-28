@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
     // Check command-line arguments
     if (argc != 4)
     {
-        printf("Usage: ./volume input.wav output.wav factor\n");
+        printf("Usage: ./main input.wav output.wav factor\n");
         return 1;
     }
 
