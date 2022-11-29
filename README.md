@@ -7,8 +7,13 @@ A command-line program to change the volume of an audio file.
 gcc -o main main.c
 ```
 ### Usage:
+#### Linux:
 ```
 ./main infile outfile factor
+```
+#### MacOS (Unix):
+```
+./main-mac infile outfile factor
 ```
 ### Sample command:
 ```
