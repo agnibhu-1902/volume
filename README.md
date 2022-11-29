@@ -1,5 +1,5 @@
 # volume-modifier
-A command-line program to change the volume of an audio file.
+A command-line program that changes the volume of an audio file.
 > Run the 'main' executable from the command-line.
 ### How to compile?
 > Make sure 'gcc' is installed.
