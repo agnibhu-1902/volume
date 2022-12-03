@@ -15,7 +15,7 @@ clang -o volume volume.c
 ```
 ### Sample command:
 ```
-./main input.wav output.wav 2.0
+./volume input.wav output.wav 2.0
 ```
 > **_Note_:** This is a Linux-based project and may not work natively on Windows. Run it under a WSL shell environment.
 >
