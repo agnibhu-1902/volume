@@ -10,7 +10,9 @@ gcc -o volume volume.c
 clang -o volume volume.c
 ```
 ### How to execute?
+```
 ./volume infile outfile factor
+```
 ### Sample command:
 ```
 ./main input.wav output.wav 2.0
