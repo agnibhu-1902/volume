@@ -2,7 +2,7 @@
 A command-line program that modifies the volume of an audio file.
 > Run the 'main' executable from the command-line.
 ### How to compile?
-> Use 'gcc' or 'clang' to compile.
+> Use 'gcc' or 'clang' to compile 'volume.c'.
 ```
 gcc -o volume volume.c
 ```
