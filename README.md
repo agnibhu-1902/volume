@@ -2,19 +2,15 @@
 A command-line program that modifies the volume of an audio file.
 > Run the 'main' executable from the command-line.
 ### How to compile?
-> Make sure 'gcc' is installed.
+> Use 'gcc' or 'clang' to compile.
 ```
-gcc -o main main.c
+gcc -o volume volume.c
 ```
-### Usage:
-#### Linux:
 ```
-./main infile outfile factor
+clang -o volume volume.c
 ```
-#### MacOS (Unix):
-```
-./main-mac infile outfile factor
-```
+### How to execute?
+./volume infile outfile factor
 ### Sample command:
 ```
 ./main input.wav output.wav 2.0
